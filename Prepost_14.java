@@ -1,6 +1,7 @@
 import java.util.Scanner; 
 public class Prepost_14 {
     public static void main(String[] args) {
+        System.out.println("Prefix Postfix");
         Scanner sc =new Scanner(System.in); 
         System.out.println("โปรดใส่ ค่า ของคุณ");
         int x =sc.nextInt() ;
