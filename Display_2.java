@@ -1,4 +1,4 @@
- class Display2 
+ class Display_2 
 {
     public static void main(String[] args) {  //สร้าง function main
         System.out.println("พิมพ์ภาษาไทยได้ละโว้ย");

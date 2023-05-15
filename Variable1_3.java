@@ -13,7 +13,13 @@ public class Variable1_3 {
         //หลาบบรรทัดในครั้งเดียว
         int f = 9 , g = 7 , h ;
        double i =46.4,j= 564.74 ;
-
+       a= 1 ;
+       b = 2 ;
+       h = 10 ;
+       status = true ;
+        System.out.println(a+b+c+d+e+f+g+h+i+j+box);
+        System.out.println(status);
+        System.out.println(stat);
 
     }
 }
