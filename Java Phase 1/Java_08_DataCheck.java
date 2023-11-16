@@ -1,4 +1,4 @@
-public class DataCheck_8 {
+public class Java_08_DataCheck {
     public static void main(String[] args) {
        /*  int a =1 ;
         double b = 1 ;

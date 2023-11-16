@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SwitchCase_20 {
+public class Java_20_SwitchCase {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in) ;
         System.out.print("โปรดใส่่เลขเดือนเกิดของคุณ");
@@ -20,5 +20,6 @@ public class SwitchCase_20 {
             case 12 :System.out.println("คุณเกิดเดือน ธันวาคม"); break ;
             default:System.out.println("คุณใส่ข้อมูลไม่ถูกต้อง");
         }
+        sc.close();
     }
 }

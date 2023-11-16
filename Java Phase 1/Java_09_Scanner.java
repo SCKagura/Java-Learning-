@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Scanner_9 {
+public class Java_09_Scanner {
     public static void main(String[] args) {
         System.out.println("Scanner");
         System.out.print("โปรดใส่ชื่อของคุณ : ");
@@ -23,5 +23,6 @@ public class Scanner_9 {
             System.out.println("โปรดใส่ช่วงอายุที่ถูกต้อง");
         }
             System.out.println("จบ phase 1");
+            sc.close(); 
     }
 }

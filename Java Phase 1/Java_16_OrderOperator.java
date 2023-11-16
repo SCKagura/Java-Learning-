@@ -1,4 +1,4 @@
-public class OrderOperator_16 {
+public class Java_16_OrderOperator {
     public static void main(String[] args) {
         System.out.println("ลำดับความสำคัญของตัวดำเนินกร");
         System.out.println(5+8*9);

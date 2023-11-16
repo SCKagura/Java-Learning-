@@ -1,4 +1,4 @@
-public class TypeCasing_6 {
+public class Java_06_TypeCasing {
     public static void main(String[] args) {
         System.out.println("การแปลงชนิดข้อมูล Type Casing");
         System.out.println("1.Widening Casing");

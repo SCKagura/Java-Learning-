@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-public class Condition_18 {
+public class Java_18_Condition {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in) ;
         System.out.println("if");
@@ -106,6 +106,7 @@ public class Condition_18 {
             System.out.println("ค้านทำละ");
         }
         
-
+            sc.close() ;
     }
+   
 }

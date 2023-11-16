@@ -1,4 +1,4 @@
-public class Loop_21 {
+public class Java_21_Loop {
     public static void main(String[] args) {
     
             int i = 0;

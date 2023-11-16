@@ -1,4 +1,4 @@
-public class Variable1_3 {
+public class Java_03_Variable1 {
     public static void main(String[] args) {
         //นิยามตัวแปรแบบไม่ระบุค่าเริ่มต้น
         int a ;

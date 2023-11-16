@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TernaryOperator_19 {
+public class Java_19_TernaryOperator {
     public static void main(String[] args) {
         int x,y ;
         Scanner sc = new Scanner(System.in) ;
@@ -11,6 +11,7 @@ public class TernaryOperator_19 {
         String result ="" ;
         result = (x>y)? x+">"+y :x + "<"+y ;
         System.out.println(result);
+        sc.close();
 
     }
 }

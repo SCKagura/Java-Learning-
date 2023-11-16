@@ -1,4 +1,4 @@
-public class AndOrNot_13 {
+public class Java_13_AndOrNot {
     public static void main(String[] args) {
         boolean a = true ;
         boolean b = false ;

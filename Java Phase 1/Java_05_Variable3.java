@@ -1,4 +1,4 @@
-public class Variable3_5 {
+public class Java_05_Variable3 {
     public static void main(String[] args) {
         System.out.println("Global variable & Local Variable");
         int a =100 ; //global  variable

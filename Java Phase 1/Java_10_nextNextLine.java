@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-class nextNextLine_10{
+class Java_10_nextNextLine{
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in) ;//รับ input จากแป้นพิมพ์
 
@@ -11,7 +11,7 @@ class nextNextLine_10{
         System.out.print("โปรดใส่ชื่อของคุณ : ");
         String name2 =sc.next() ;  //รับค่าที่เป้น String ทแค่คำแรก 
         System.out.println("ชื่อของคุณคือ : "+name2);
-      
+        sc.close(); 
         
     }
 }

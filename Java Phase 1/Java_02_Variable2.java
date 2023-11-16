@@ -1,4 +1,4 @@
-class Variable2_4
+class Java_02_Variable2
 {
     public static void main(String[] args) {
         int num1 = 10 ;

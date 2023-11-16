@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-public class Prepost_14 {
+public class Java_14_Prepost {
     public static void main(String[] args) {
         System.out.println("Prefix Postfix");
         Scanner sc =new Scanner(System.in); 
@@ -12,6 +12,6 @@ public class Prepost_14 {
         System.out.println("ค่า --x = "+(--x));
         System.out.println("ค่า x-- = "+(x--));
         System.out.println("ค่า x = "+x);
-
+        sc.close(); 
     }
 }

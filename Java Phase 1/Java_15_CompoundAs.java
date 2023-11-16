@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CompoundAs_15 {
+public class Java_15_CompoundAs {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         System.out.println("Compound Assignment");
@@ -12,6 +12,6 @@ public class CompoundAs_15 {
         System.out.println("x *= y = x* y = "+(x*y));
         System.out.println("x /= y = x/ y = "+(x/y));
         System.out.println("x %= y = x% y = "+(x%y));
-
+        sc.close(); ;
     }
 }

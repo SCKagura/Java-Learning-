@@ -1,4 +1,4 @@
- class Display_2 
+ class Java_02_Display
 {
     public static void main(String[] args) {  //สร้าง function main
         System.out.println("พิมพ์ภาษาไทยได้ละโว้ย");

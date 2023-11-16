@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-public class MathOperator_12 {
+public class Java_12_MathOperator {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in) ;
         System.out.print("ค่าแรก = ");
@@ -26,7 +26,7 @@ public class MathOperator_12 {
         System.out.println("ค่ามากกว่าหรทอเท่ากับมั้ย = "+(c>=d));
         System.out.println("ค่าน้อยกว่าหรือเท่ากับมั้ยมั้ย = "+(c<=d));
 
-
+        sc.close(); 
 
 
 

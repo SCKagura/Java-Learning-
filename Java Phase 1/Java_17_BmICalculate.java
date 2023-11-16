@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BmICalculate_17 {
+public class Java_17_BmICalculate {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in) ;
         System.out.print("โปรดใส่น้ำหนักของคุณ (kg) : ");
@@ -35,6 +35,6 @@ public class BmICalculate_17 {
             result="โรคอ้วนอันตราย"  ;
         }
         System.out.print("เกณฑ์ของคุณ = "+result);
-
+        sc.close(); 
     }
 }

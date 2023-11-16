@@ -1,4 +1,4 @@
-public class String_7 {
+public class Java_07_String {
     public static void main(String[] args) {
         System.out.println("ทำความรู้จัก String");
       /*/   String = ชนิดข้อมูลที่เก็บชุดข้อความ
